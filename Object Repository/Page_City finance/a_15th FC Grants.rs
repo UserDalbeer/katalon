@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_15th FC Grants</name>
+   <tag></tag>
+   <elementGuidId>cf3075d7-352b-4312-b893-806092314353</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.ng-star-inserted > a.nav-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03a6f9e1-ba4d-436f-8421-33fb02c0d5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/fc-home-page</value>
+      <webElementGuid>25b29f5f-13a9-441a-936e-8ab0df6b6877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>62e5af3e-0b4a-425d-a708-29ce5144cde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/fc-home-page</value>
+      <webElementGuid>6d894347-7aad-45b5-9624-e2565325b86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15th FC Grants</value>
+      <webElementGuid>12fc59bb-12b8-4f89-9c36-63e3f359c12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-3&quot;]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-n-home-header[1]/div[@class=&quot;bg-white&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-light bg-white py-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;collapse navbar-collapse me-3&quot;]/ul[@class=&quot;navbar-nav ms-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>cc516d09-7086-4801-af69-d85ae32d2391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[1]</value>
+      <webElementGuid>d2955638-80c3-438f-b339-edaa83138de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Municipal Budgets'])[1]/following::a[2]</value>
+      <webElementGuid>e52d471e-aa49-45c2-92b9-45584ab0e311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rankings'])[1]/preceding::a[1]</value>
+      <webElementGuid>6659223c-5775-420d-896f-6c9941835187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15']/parent::*</value>
+      <webElementGuid>e1b6bd3f-120f-4f60-97c0-42e217e62099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/fc-home-page')]</value>
+      <webElementGuid>bbe54918-0a01-43f2-8553-927c28197898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>fb55b09b-d938-469f-ba64-9a49e759bf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/fc-home-page' and (text() = '15th FC Grants' or . = '15th FC Grants')]</value>
+      <webElementGuid>92da203a-bc48-4f22-b01d-5c0e2751adf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

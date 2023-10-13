@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_select levelFPOMember</name>
+   <tag></tag>
+   <elementGuidId>9c3681dc-dd7e-4acd-8e4d-bce578a7d793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#compliancefrequency-level</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='compliancefrequency-level']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bd098bc9-60ff-402b-ae5a-89414f5ef545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>compliancefrequency-level</value>
+      <webElementGuid>ed62ced1-1d60-4120-8a0a-fdd712886e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>67b2fc3d-b392-41b0-83aa-89bfba671fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ComplianceFrequency[level]</value>
+      <webElementGuid>511e26ad-e8da-498c-a6c4-ea1731b7d207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>dropdownChange()</value>
+      <webElementGuid>4d587982-5886-47e6-91f9-e40fe12cc648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bc972d9a-72d3-4127-b37f-3ee4d26ea365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+select level
+FPO
+Member
+</value>
+      <webElementGuid>b9c13a89-8ab8-48b5-acb4-8b95f4f8179d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;compliancefrequency-level&quot;)</value>
+      <webElementGuid>49851b6f-a6db-4eb9-b055-132bda2bd04b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='compliancefrequency-level']</value>
+      <webElementGuid>e5716fd7-e251-452e-9d7d-f1135358dabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div[3]/div/select</value>
+      <webElementGuid>8085cedf-798b-4f5e-a970-672bbd56d8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level'])[1]/following::select[1]</value>
+      <webElementGuid>63fe0824-635a-4f7b-a8e1-82fad1255a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency cannot be blank.'])[1]/following::select[1]</value>
+      <webElementGuid>95d386e4-f110-46d9-9b12-fbdf6ecef564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FPO'])[3]/preceding::select[1]</value>
+      <webElementGuid>fa2b3da4-bfab-4268-ac29-f475646c01b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select multiple items'])[1]/preceding::select[2]</value>
+      <webElementGuid>29492c3c-f061-45e4-a6d8-d1878d767cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>deb25538-be03-4966-87fb-fdb2b1a9c4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'compliancefrequency-level' and @name = 'ComplianceFrequency[level]' and (text() = '
+select level
+FPO
+Member
+' or . = '
+select level
+FPO
+Member
+')]</value>
+      <webElementGuid>3ef01748-68aa-42ed-b2a4-a0bed4f40483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

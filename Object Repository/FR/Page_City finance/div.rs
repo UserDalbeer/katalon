@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>a6f1a5f2-b010-4de3-9a34-aba7d39beea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;cdk-step-content-0-3&quot;]/div/div[1]/div/div/div[2]/div/div/div[2]/div[1]/div/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4f1804b-d98d-484b-af24-15ed9c49354f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6 text-end</value>
+      <webElementGuid>19f4c133-56ff-4087-86e9-8127b6c5e76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-3&quot;)/div[@class=&quot;container mt-4 w-80 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mx-auto&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card card-form mb-4 com-style ng-star-inserted&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;loop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3 com-style ng-star-inserted&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;col-sm-12 mb-3 ng-star-inserted&quot;]/button[@class=&quot;btn form-btn com-style w-100 test-city&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-end&quot;]</value>
+      <webElementGuid>5b3fed9a-9fb6-4087-838b-a60f40165db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-3']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/button/div/div[2]</value>
+      <webElementGuid>34d57520-338e-4dc0-aaa0-018f27053ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select File'])[2]/following::div[1]</value>
+      <webElementGuid>3b8c8322-59c1-4ce7-9eb6-cc04f035a070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2022-23'])[1]/following::div[4]</value>
+      <webElementGuid>dc9593d2-23c5-4ae0-8e98-1ac7301d9d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2021-22'])[1]/preceding::div[4]</value>
+      <webElementGuid>16034522-944f-4347-8e09-977745d490c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button/div/div[2]</value>
+      <webElementGuid>4ff7443d-d3bc-492c-8cb7-80bbac2a0bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-3']/div/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/button/div/div[2]</value>
+      <webElementGuid>500cc79d-28d8-41e9-9f27-ad9f0e6a6a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select File'])[1]/following::div[1]</value>
+      <webElementGuid>424dc1fa-d7f2-4044-8738-0d245ddf0ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2023-24'])[1]/following::div[4]</value>
+      <webElementGuid>d5b3b1fb-552e-4e2a-82e2-992979a204b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2022-23'])[1]/preceding::div[3]</value>
+      <webElementGuid>83e19be4-80e6-4819-84cb-a687850b34a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[2]</value>
+      <webElementGuid>79ac9dc0-a373-42c4-9554-7714ecd9ba98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

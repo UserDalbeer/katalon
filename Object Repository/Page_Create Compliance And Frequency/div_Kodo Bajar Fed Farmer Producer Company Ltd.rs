@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kodo Bajar Fed Farmer Producer Company Ltd</name>
+   <tag></tag>
+   <elementGuidId>b3b819a9-bd7e-454a-8077-51eccc51eac1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-compliancefrequency-fpo_id-result-r0ov-1']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2418f487-a7f7-43c4-9ff6-b756366866c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrap</value>
+      <webElementGuid>0444f250-e840-4725-a92a-ef997136d8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kodo Bajar Fed Farmer Producer Company Ltd</value>
+      <webElementGuid>ae5dff39-e49d-4918-b054-ea1c3f4774c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-compliancefrequency-fpo_id-result-r0ov-1&quot;)/div[@class=&quot;wrap&quot;]</value>
+      <webElementGuid>a2843230-f453-4d3f-8fd3-21609c56a688</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select2-compliancefrequency-fpo_id-result-r0ov-1']/div</value>
+      <webElementGuid>f030deb9-3588-4a5e-a995-ea684552000a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[10]/following::div[3]</value>
+      <webElementGuid>99e4f01a-6732-4bfa-b11e-ed5259444b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[10]/following::div[3]</value>
+      <webElementGuid>16185a15-63eb-46d7-b168-502601f8fbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sanjhadela Fed Farmer Producer Company Ltd'])[2]/preceding::div[1]</value>
+      <webElementGuid>5f9964ab-4528-4424-a846-fd3a379d0344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halchalit Women Farmer Producer Company'])[2]/preceding::div[2]</value>
+      <webElementGuid>8767d38b-64a8-4e3d-bc1a-4f55e1af8f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li/div</value>
+      <webElementGuid>ea90bcb1-91e2-4bdf-b820-e152d01a1ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kodo Bajar Fed Farmer Producer Company Ltd' or . = 'Kodo Bajar Fed Farmer Producer Company Ltd')]</value>
+      <webElementGuid>0e6835c2-ae3a-4f74-9d80-3fa519437594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

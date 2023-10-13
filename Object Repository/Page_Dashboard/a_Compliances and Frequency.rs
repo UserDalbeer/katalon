@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Compliances and Frequency</name>
+   <tag></tag>
+   <elementGuidId>87710aec-049a-4fab-9d1c-8f77b26714f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w12']/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efb66d42-322a-4275-a958-268fb2f0677a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>61d24044-7ada-4098-ac77-82ee40d7925f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/compliance-frequency/index</value>
+      <webElementGuid>6cf8ae7a-d9d3-49c4-9b92-de7b5c024fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compliances and Frequency</value>
+      <webElementGuid>f53711de-a4f8-48d7-b318-d7657635bc0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w12&quot;)/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>15129290-05b5-4c25-b2c3-db59a200dbdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w12']/a[3]</value>
+      <webElementGuid>6ae6990d-6643-444c-8f1e-e095d54777a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Compliances and Frequency')]</value>
+      <webElementGuid>80513f17-381c-40fb-b5e9-3d3c543646a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency'])[1]/following::a[1]</value>
+      <webElementGuid>ccc9f674-9dcf-4c1e-975b-515618b91de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliances'])[1]/following::a[2]</value>
+      <webElementGuid>51eaa6f8-d379-4514-b2a3-ae7ce4f5f65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliances and Frequency mapper'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e65ed30-52a8-4362-849d-ed4727be1f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Directory'])[1]/preceding::a[2]</value>
+      <webElementGuid>20b06348-7a6d-4f38-a9f8-68d65dc12048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compliances and Frequency']/parent::*</value>
+      <webElementGuid>980cf724-3d27-4e6a-86b6-e9d5c6398212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/compliance-frequency/index')]</value>
+      <webElementGuid>b5a03237-c82f-474f-b024-161b1ea77c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/a[3]</value>
+      <webElementGuid>83621273-b962-4966-95ee-95953f270110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/compliance-frequency/index' and (text() = 'Compliances and Frequency' or . = 'Compliances and Frequency')]</value>
+      <webElementGuid>e7198c5a-7be0-4c7a-b5a6-11b391f5a79f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

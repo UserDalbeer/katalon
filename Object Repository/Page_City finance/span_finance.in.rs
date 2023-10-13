@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_finance.in</name>
+   <tag></tag>
+   <elementGuidId>59e64812-d209-427c-9066-a704c6f59d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='city'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f435de0e-aa7a-4568-9f47-4d2c9bbdd78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fy</value>
+      <webElementGuid>aa69bb04-a4dd-47a6-ba7d-a7943c5184c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>finance.in</value>
+      <webElementGuid>99726ae0-3b86-4d34-829d-8dc154c71874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-n-home-header[1]/div[@class=&quot;bg-white&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-light bg-white py-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;collapse navbar-collapse me-3&quot;]/ul[@class=&quot;navbar-nav ms-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;navbar-brand cityLogo&quot;]/span[@class=&quot;fy&quot;]</value>
+      <webElementGuid>2b4e4c3d-35a1-440d-a49f-e3becd84f6b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='city'])[1]/following::span[1]</value>
+      <webElementGuid>73aa7a82-f770-47fa-8384-5f16c626b5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[3]/following::span[3]</value>
+      <webElementGuid>69fcded5-91d8-4f2b-b8f7-81b9ae88853e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National Performance'])[1]/preceding::span[1]</value>
+      <webElementGuid>dca9ea28-d90b-4d19-8fdf-1be26105ade7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Revenue Performance'])[1]/preceding::span[1]</value>
+      <webElementGuid>77537805-dff6-4389-9473-fdace91d871f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='finance.in']/parent::*</value>
+      <webElementGuid>b2e312d7-9670-4442-9c42-3c285aced49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>9ce8cd5d-0164-4ee3-89cb-d1d1b5f91875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'finance.in' or . = 'finance.in')]</value>
+      <webElementGuid>9df5b09e-9704-43a5-afbd-f713db3649cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

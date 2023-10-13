@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filethree</name>
+   <tag></tag>
+   <elementGuidId>f75a83b2-686f-401e-bb72-1037f82dd7e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;cdk-step-content-0-3&quot;]/div/div[1]/div/div/div[2]/div/div/div[2]/div[3]/div/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7dac852-9119-48f1-aec7-f52c503bc4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6 file-text</value>
+      <webElementGuid>29033a7c-ad2b-4bfb-810f-88a37dabbb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select File </value>
+      <webElementGuid>ab7a6c2d-aad6-4f1f-8df6-1339bfe2b2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-3&quot;)/div[@class=&quot;container mt-4 w-80 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mx-auto&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card card-form mb-4 com-style ng-star-inserted&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;loop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3 com-style ng-star-inserted&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;col-sm-12 mb-3 ng-star-inserted&quot;]/button[@class=&quot;btn form-btn com-style w-100 test-city&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 file-text&quot;]</value>
+      <webElementGuid>baa08183-7038-4b46-b8d5-ccd29de55e24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-3']/div/div/div/div/div[2]/div/div/div[2]/div[3]/div/div[2]/button/div/div</value>
+      <webElementGuid>11e7dd9a-0501-4b96-a3b5-eec73c1232ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2021-22'])[1]/following::div[3]</value>
+      <webElementGuid>57158d4f-4423-40e4-9e9e-afe169ee3fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2020-21'])[1]/preceding::div[5]</value>
+      <webElementGuid>ca2013e3-0bb4-4d57-b2cf-301ddba31646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button/div/div</value>
+      <webElementGuid>eb7393ac-fb2f-4c39-af64-f9145a0d25b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Select File ' or . = ' Select File ')]</value>
+      <webElementGuid>927a6ca2-d8c9-42ae-847f-b8a15b952797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Amritsar Cantt</name>
+   <tag></tag>
+   <elementGuidId>55170f1f-8973-4086-9d42-b839e087c4d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-28 > span.mat-option-text > div.row > div.col-8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-28']/span/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c93dce7e-18ec-4f34-bf4e-4f3ac0883f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Amritsar Cantt</value>
+      <webElementGuid>71ee8567-8108-416c-b6d1-b853e20fc78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-28&quot;)/span[@class=&quot;mat-option-text&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8&quot;]/span[1]</value>
+      <webElementGuid>c87daa45-5657-48ca-af9a-14f52fb818d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-28']/span/div/div/span</value>
+      <webElementGuid>b2d1360b-240b-4670-9549-0c4d9d2f0519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Municipality'])[1]/following::span[2]</value>
+      <webElementGuid>f8ab05d4-67b2-4a06-9f0e-3ec5658002f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amloh Municipality'])[1]/following::span[3]</value>
+      <webElementGuid>f5491e76-6805-4971-8e1f-c2a839cc6a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Municipality'])[2]/preceding::span[1]</value>
+      <webElementGuid>1f8ade34-e9eb-4543-b4bc-dbab1b60f137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amritsar Municipal Corporation'])[1]/preceding::span[2]</value>
+      <webElementGuid>b458d623-6f12-45d7-884c-e0b33cf568d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/mat-option/span/div/div/span</value>
+      <webElementGuid>ea075f6a-eed2-4354-80d8-02bf27d15c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Amritsar Cantt' or . = ' Amritsar Cantt')]</value>
+      <webElementGuid>87e79c75-f5a4-4b43-a963-e44e96e7ca35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

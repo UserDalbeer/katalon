@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sanjhadela Fed Farmer Producer Company Ltd</name>
+   <tag></tag>
+   <elementGuidId>59077fab-bdfe-4f2c-8b77-43f75e0482ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-compliancefrequency-fpo_id-result-v5ru-2 > div.wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-compliancefrequency-fpo_id-result-v5ru-2']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5279a6f9-e011-424d-a6b6-4f9cba4e8af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrap</value>
+      <webElementGuid>90537496-1e6d-4785-a48d-7ef56fad8177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sanjhadela Fed Farmer Producer Company Ltd</value>
+      <webElementGuid>cdf195ff-c6f8-4278-9dfe-004c77dc2d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-compliancefrequency-fpo_id-result-v5ru-2&quot;)/div[@class=&quot;wrap&quot;]</value>
+      <webElementGuid>6991d11f-8f84-4e3d-bf6a-a71f06ed296e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select2-compliancefrequency-fpo_id-result-v5ru-2']/div</value>
+      <webElementGuid>b677358f-b3de-4d7f-a5b7-59dd8d63142f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kodo Bajar Fed Farmer Producer Company Ltd'])[2]/following::div[1]</value>
+      <webElementGuid>89582201-a7c1-4190-b52b-daa7e8d6f8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[10]/following::div[4]</value>
+      <webElementGuid>84677b7f-8936-45f4-b9dc-794dc8ad252a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halchalit Women Farmer Producer Company'])[2]/preceding::div[1]</value>
+      <webElementGuid>fe276f26-bc48-47b3-ae92-c11a43778ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranibandh Mahila Farmer Producer Company Limited'])[2]/preceding::div[2]</value>
+      <webElementGuid>50f258ed-ca49-4018-9cde-45e2fafdb89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[2]/div</value>
+      <webElementGuid>2b3d5a63-2f25-497c-b82b-cf7e160938ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sanjhadela Fed Farmer Producer Company Ltd' or . = 'Sanjhadela Fed Farmer Producer Company Ltd')]</value>
+      <webElementGuid>cc3169f3-2b0a-4870-849e-e3e3f91245e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

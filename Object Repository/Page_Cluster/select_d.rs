@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_d</name>
+   <tag></tag>
+   <elementGuidId>fe8a761b-577c-48ff-a786-7c88d6ee9494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clustersearch-block_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='clustersearch-block_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ab843328-cbd3-4751-a994-a16a6f9984ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clustersearch-block_id</value>
+      <webElementGuid>1f4e134d-69f7-4512-880c-3faed4841799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>a0911867-6da3-40cd-8bec-a7cec377b8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClusterSearch[block_id]</value>
+      <webElementGuid>96922639-5af4-4cdd-ab87-ba55de1cdf62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Select
+Alirajpur
+Amarpur
+Amarwara
+Ambah
+Angara
+Badarwas
+Badnawar
+Baihar
+Bajag
+Balaghat
+Baldeogarh
+BANKATI
+Barama
+Barwani
+Baska
+Bechimari
+Beohari
+Berasia
+BERO
+Bhavra
+Bhergaon
+Biaora
+Bichhiya
+Bichhua
+Bijadandi
+Bijawar
+Bilasipara
+Borchala
+Borobazar
+Budni
+Burhar
+Buxwaha
+CHAINPUR
+Chakchaka
+Chapar-Salkocha
+Chauparan
+Chhatarpur
+Chhindwara
+Chitarpur
+Chitrangi
+Dahi
+Debitola
+Deori
+Deosar
+Dhamdhama
+Dhanaura
+Dindori
+Dotoma
+Dulmi
+Ghughari
+Gobardhana
+Gobardhana
+Gola
+Golakganj
+Goreswar
+Gossaigaon
+Hatidhura
+Jaisinagar
+Jaisinghnagar
+Jalah
+Jamai
+Jatara
+Jhabua
+Jirapur
+Jobat
+Joura
+Joya
+Kachugaon
+Kailaras
+Kalaigaon
+Karahal
+Karera
+Kattiwada
+KERSAI
+Kesli
+Khairabari
+Khaniyadhana
+Khategaon
+Khilchipur
+Kirnapur
+Kokrajhar
+Kolaras
+KURDEG
+Lalbarra
+Lanji
+Lavkushnagar
+Mahamaya
+Majbat
+Majhauli
+Manawar
+Mandla
+Mandu
+Manikpur
+Meghnagar
+Mehadwani
+MIHINPURWA
+Mohgaon
+Mohkhed
+Morena
+Nagrijuli
+Nalchha
+NARAINI
+Narsinghgarh
+Nasrullaganj
+NEWALI
+NIGHASAN
+Nisarpur
+Niwas
+Nowgong
+Pachim-Mangaldai
+Pahadgarh
+Palera
+Pandhurna
+Pansemal
+Paraswada
+Pati
+Patratu
+Petlawad
+Pichhore
+Pohri
+Porsa
+Pub-Mangaldai
+Rahatgarh
+Raidih
+Rajgarh
+Rajnagar
+Rajpur
+Rama
+Ramgarh
+Rampur Naikin
+Ranapur
+Rehli
+Rowta
+Rupsi
+S1D1B1
+Sabalgarh
+Samnapur
+SATBARWA
+Sausar
+SENDHAWA
+Shahpura
+Sheopur
+Sidhi
+Sidli - Chirang
+Sihawal
+Sipajhar
+Sohagpur
+Sondwa
+Tamia
+Tamulpur
+Test - Block
+Thandla
+Thikri
+Tihu
+Tihu-Barama
+Tikamgarh
+Tirla
+Torpa
+Udaigarh
+Udalguri
+Umarban
+Unchkagaon
+Waidhan
+Waraseoni
+</value>
+      <webElementGuid>a288ae2b-2ed4-462f-91be-c19c6397e753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clustersearch-block_id&quot;)</value>
+      <webElementGuid>2f44e353-a56e-4f9a-9a40-3bf484cbb4a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='clustersearch-block_id']</value>
+      <webElementGuid>612fcf22-be00-417f-868c-33b9cf9adfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='w4-filters']/td[4]/select</value>
+      <webElementGuid>5bdf3477-4217-40dd-bebe-eba982dbcab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::select[3]</value>
+      <webElementGuid>3a9352ae-781a-46e6-9247-fdbe537bc40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[2]/following::select[3]</value>
+      <webElementGuid>37fd9e6c-4a50-466d-9dad-0a82a24e9054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar'])[2]/preceding::select[1]</value>
+      <webElementGuid>2668a016-fb37-4126-b9e7-ab818ac0dee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gopalganj'])[2]/preceding::select[1]</value>
+      <webElementGuid>46d94f59-2166-4764-bce3-2f563816829d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>6042fcb0-ebff-4623-8f6a-c07d983bc004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'clustersearch-block_id' and @name = 'ClusterSearch[block_id]' and (text() = '
+Select
+Alirajpur
+Amarpur
+Amarwara
+Ambah
+Angara
+Badarwas
+Badnawar
+Baihar
+Bajag
+Balaghat
+Baldeogarh
+BANKATI
+Barama
+Barwani
+Baska
+Bechimari
+Beohari
+Berasia
+BERO
+Bhavra
+Bhergaon
+Biaora
+Bichhiya
+Bichhua
+Bijadandi
+Bijawar
+Bilasipara
+Borchala
+Borobazar
+Budni
+Burhar
+Buxwaha
+CHAINPUR
+Chakchaka
+Chapar-Salkocha
+Chauparan
+Chhatarpur
+Chhindwara
+Chitarpur
+Chitrangi
+Dahi
+Debitola
+Deori
+Deosar
+Dhamdhama
+Dhanaura
+Dindori
+Dotoma
+Dulmi
+Ghughari
+Gobardhana
+Gobardhana
+Gola
+Golakganj
+Goreswar
+Gossaigaon
+Hatidhura
+Jaisinagar
+Jaisinghnagar
+Jalah
+Jamai
+Jatara
+Jhabua
+Jirapur
+Jobat
+Joura
+Joya
+Kachugaon
+Kailaras
+Kalaigaon
+Karahal
+Karera
+Kattiwada
+KERSAI
+Kesli
+Khairabari
+Khaniyadhana
+Khategaon
+Khilchipur
+Kirnapur
+Kokrajhar
+Kolaras
+KURDEG
+Lalbarra
+Lanji
+Lavkushnagar
+Mahamaya
+Majbat
+Majhauli
+Manawar
+Mandla
+Mandu
+Manikpur
+Meghnagar
+Mehadwani
+MIHINPURWA
+Mohgaon
+Mohkhed
+Morena
+Nagrijuli
+Nalchha
+NARAINI
+Narsinghgarh
+Nasrullaganj
+NEWALI
+NIGHASAN
+Nisarpur
+Niwas
+Nowgong
+Pachim-Mangaldai
+Pahadgarh
+Palera
+Pandhurna
+Pansemal
+Paraswada
+Pati
+Patratu
+Petlawad
+Pichhore
+Pohri
+Porsa
+Pub-Mangaldai
+Rahatgarh
+Raidih
+Rajgarh
+Rajnagar
+Rajpur
+Rama
+Ramgarh
+Rampur Naikin
+Ranapur
+Rehli
+Rowta
+Rupsi
+S1D1B1
+Sabalgarh
+Samnapur
+SATBARWA
+Sausar
+SENDHAWA
+Shahpura
+Sheopur
+Sidhi
+Sidli - Chirang
+Sihawal
+Sipajhar
+Sohagpur
+Sondwa
+Tamia
+Tamulpur
+Test - Block
+Thandla
+Thikri
+Tihu
+Tihu-Barama
+Tikamgarh
+Tirla
+Torpa
+Udaigarh
+Udalguri
+Umarban
+Unchkagaon
+Waidhan
+Waraseoni
+' or . = '
+Select
+Alirajpur
+Amarpur
+Amarwara
+Ambah
+Angara
+Badarwas
+Badnawar
+Baihar
+Bajag
+Balaghat
+Baldeogarh
+BANKATI
+Barama
+Barwani
+Baska
+Bechimari
+Beohari
+Berasia
+BERO
+Bhavra
+Bhergaon
+Biaora
+Bichhiya
+Bichhua
+Bijadandi
+Bijawar
+Bilasipara
+Borchala
+Borobazar
+Budni
+Burhar
+Buxwaha
+CHAINPUR
+Chakchaka
+Chapar-Salkocha
+Chauparan
+Chhatarpur
+Chhindwara
+Chitarpur
+Chitrangi
+Dahi
+Debitola
+Deori
+Deosar
+Dhamdhama
+Dhanaura
+Dindori
+Dotoma
+Dulmi
+Ghughari
+Gobardhana
+Gobardhana
+Gola
+Golakganj
+Goreswar
+Gossaigaon
+Hatidhura
+Jaisinagar
+Jaisinghnagar
+Jalah
+Jamai
+Jatara
+Jhabua
+Jirapur
+Jobat
+Joura
+Joya
+Kachugaon
+Kailaras
+Kalaigaon
+Karahal
+Karera
+Kattiwada
+KERSAI
+Kesli
+Khairabari
+Khaniyadhana
+Khategaon
+Khilchipur
+Kirnapur
+Kokrajhar
+Kolaras
+KURDEG
+Lalbarra
+Lanji
+Lavkushnagar
+Mahamaya
+Majbat
+Majhauli
+Manawar
+Mandla
+Mandu
+Manikpur
+Meghnagar
+Mehadwani
+MIHINPURWA
+Mohgaon
+Mohkhed
+Morena
+Nagrijuli
+Nalchha
+NARAINI
+Narsinghgarh
+Nasrullaganj
+NEWALI
+NIGHASAN
+Nisarpur
+Niwas
+Nowgong
+Pachim-Mangaldai
+Pahadgarh
+Palera
+Pandhurna
+Pansemal
+Paraswada
+Pati
+Patratu
+Petlawad
+Pichhore
+Pohri
+Porsa
+Pub-Mangaldai
+Rahatgarh
+Raidih
+Rajgarh
+Rajnagar
+Rajpur
+Rama
+Ramgarh
+Rampur Naikin
+Ranapur
+Rehli
+Rowta
+Rupsi
+S1D1B1
+Sabalgarh
+Samnapur
+SATBARWA
+Sausar
+SENDHAWA
+Shahpura
+Sheopur
+Sidhi
+Sidli - Chirang
+Sihawal
+Sipajhar
+Sohagpur
+Sondwa
+Tamia
+Tamulpur
+Test - Block
+Thandla
+Thikri
+Tihu
+Tihu-Barama
+Tikamgarh
+Tirla
+Torpa
+Udaigarh
+Udalguri
+Umarban
+Unchkagaon
+Waidhan
+Waraseoni
+')]</value>
+      <webElementGuid>44d9d5a9-5ff2-4016-97b7-ba2907eafc43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

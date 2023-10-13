@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Financial Information</name>
+   <tag></tag>
+   <elementGuidId>8337c7d1-d403-4bee-9c57-19c279d31f03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-step-label-0-2 > div.mat-step-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-step-header[@id='cdk-step-label-0-2']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49a91225-972d-4f44-b288-33da726e0ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-step-label</value>
+      <webElementGuid>a670a795-6ee3-4c6f-94b3-3328885b8fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financial Information </value>
+      <webElementGuid>abeed219-46df-4701-9e10-d31a9e84f229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-label-0-2&quot;)/div[@class=&quot;mat-step-label&quot;]</value>
+      <webElementGuid>94a0255b-79bc-4be9-9bc3-6020c578088e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-step-header[@id='cdk-step-label-0-2']/div[3]</value>
+      <webElementGuid>bbc9785c-0bf2-4b55-bbb7-12307f48a0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='circle'])[2]/following::div[1]</value>
+      <webElementGuid>17415c1e-76d3-439a-bb3b-b73f05066eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact information'])[1]/following::div[6]</value>
+      <webElementGuid>78bf0c76-ccbf-4dbb-91fa-37cf2c7c58af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='circle'])[3]/preceding::div[4]</value>
+      <webElementGuid>255a3cce-2e22-4945-bdbe-31391368b692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-step-header[3]/div[3]</value>
+      <webElementGuid>2a85fe4f-7c08-46e1-a6d3-bac99836768c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Financial Information ' or . = 'Financial Information ')]</value>
+      <webElementGuid>b35d5742-1426-49e2-84a3-19b8d9412ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

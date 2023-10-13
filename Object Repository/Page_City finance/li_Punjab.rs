@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Punjab</name>
+   <tag></tag>
+   <elementGuidId>f2fb8293-5d9c-4695-9bfe-1fa59fa77ffc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.pure-checkbox.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jharkhand'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a48cf59e-3aca-4e4f-951a-ac743724d0ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pure-checkbox ng-star-inserted</value>
+      <webElementGuid>3b9476a0-c612-4c9c-b45f-9a19abbb3864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Punjab</value>
+      <webElementGuid>b7b1ea21-cacf-4e3a-8628-83e4ba345c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-state[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/app-front-panel[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row pad&quot;]/div[@class=&quot;col-md-5 ng-star-inserted&quot;]/app-map-with-filter[1]/div[@class=&quot;flex-column row&quot;]/div[@class=&quot;row smallScreen&quot;]/div[@class=&quot;col-sm-12 col-lg-6 col-md-6 pull-right&quot;]/angular2-multiselect[@class=&quot;stateDropdown ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list tagToBody animated fadeIn&quot;]/div[@class=&quot;list-area single-select-mode&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]</value>
+      <webElementGuid>73601dde-a74a-46a5-9493-dfcabef8bb86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jharkhand'])[1]/following::li[1]</value>
+      <webElementGuid>70ea96c2-b7ab-46f9-b9b4-b53444c30277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::li[1]</value>
+      <webElementGuid>2c6e2c03-9d24-49ef-8ce4-2f10d16703f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/preceding::li[1]</value>
+      <webElementGuid>d334e730-c46d-45e5-96ab-a3b2de0e7e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li</value>
+      <webElementGuid>991a7a93-d6a9-48b7-a841-a12dd4920ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Punjab' or . = 'Punjab')]</value>
+      <webElementGuid>8da6e751-721c-4397-9788-76752a76bbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puducherry'])[1]/following::li[1]</value>
+      <webElementGuid>ad81e12a-fdef-464d-8a17-1f119f2d9ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odisha'])[1]/following::li[2]</value>
+      <webElementGuid>1a787809-eb3a-45dc-ba0d-5e7d7ef12e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rajasthan'])[1]/preceding::li[1]</value>
+      <webElementGuid>ad3e2167-597a-45b8-8cc7-7c79d8aa00f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[29]</value>
+      <webElementGuid>34ad55d8-3f31-4d32-ab1b-690a493a4e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
