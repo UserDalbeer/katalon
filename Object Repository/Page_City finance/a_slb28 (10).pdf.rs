@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_slb28 (10).pdf</name>
+   <tag></tag>
+   <elementGuidId>d2d288cd-d48a-4882-ad9b-2fde28a31d6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-tooltip-trigger.f-name.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'slb28 (10).pdf')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e985cb3-b1d9-432a-8d12-e6a562ccffb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mattooltip</name>
+      <type>Main</type>
+      <value>Click to view the file</value>
+      <webElementGuid>0f1a099a-c65f-48a0-bb23-f72e9a489d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>067f32de-ffe7-456c-a805-78b32a525fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger f-name ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>33d0dbd8-5121-43a7-885d-bb2faf27c49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://jana-cityfinance-stg.s3.ap-south-1.amazonaws.com/ULB/2023-24/gfc/RJ133/slb28_%2810%29_52e0e727-e2e0-4fb9-951f-41d9f1eed4fe.pdf</value>
+      <webElementGuid>347307d4-79de-4369-a2b5-8433c379c599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-6</value>
+      <webElementGuid>55f57ca1-85ca-4714-810d-0ac005428124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>slb28 (10).pdf</value>
+      <webElementGuid>3e35ac96-61aa-49fd-9d24-58ea3c71eca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-3&quot;]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-ulb-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/app-common-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-web-form[1]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/div[@class=&quot;row mt-3 mb-4&quot;]/div[@class=&quot;col-sm-12 mt-4&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-3 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12 mt-3&quot;]/span[@class=&quot;mb-3 ms-2 ng-star-inserted&quot;]/a[@class=&quot;mat-tooltip-trigger f-name ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>ca0d4c2c-46bb-4e3e-8cf9-0b92b2532dd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'slb28 (10).pdf')]</value>
+      <webElementGuid>6587de00-e701-419b-bade-c172bc177e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slb28 (10).pdf'])[1]/following::a[1]</value>
+      <webElementGuid>5574f82e-e55a-42e3-8308-d16ddfb6953b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload PDF'])[1]/following::a[1]</value>
+      <webElementGuid>92900bcd-a325-437e-8a53-ad171146dcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba0cbfcb-f6d5-4eeb-a8a8-b43ebe411a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://jana-cityfinance-stg.s3.ap-south-1.amazonaws.com/ULB/2023-24/gfc/RJ133/slb28_%2810%29_52e0e727-e2e0-4fb9-951f-41d9f1eed4fe.pdf')]</value>
+      <webElementGuid>cfd3bede-7996-485a-9e16-d30ec5573407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/a</value>
+      <webElementGuid>b20db9e7-596e-47f1-91d7-b38163a6929c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://jana-cityfinance-stg.s3.ap-south-1.amazonaws.com/ULB/2023-24/gfc/RJ133/slb28_%2810%29_52e0e727-e2e0-4fb9-951f-41d9f1eed4fe.pdf' and (text() = 'slb28 (10).pdf' or . = 'slb28 (10).pdf')]</value>
+      <webElementGuid>1be74bdb-4dfc-4986-8dbf-a27a2c212af0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

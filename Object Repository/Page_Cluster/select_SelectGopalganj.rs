@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectGopalganj</name>
+   <tag></tag>
+   <elementGuidId>9cfb475c-b987-48b0-a034-7f3b928af977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clustersearch-district_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='clustersearch-district_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>df42dfa9-90a9-481a-aefe-3151be396ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clustersearch-district_id</value>
+      <webElementGuid>b64b5d33-1376-4113-895a-9c4d827492af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>55c4ee63-f3a9-466c-a42c-1afb4d46f6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClusterSearch[district_id]</value>
+      <webElementGuid>819ff1a8-bfd7-44da-9e5c-6f8acb7165d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Select
+Gopalganj
+</value>
+      <webElementGuid>004d50a9-e0b0-4ac7-b1d1-2ea19ca40927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clustersearch-district_id&quot;)</value>
+      <webElementGuid>4ec2f026-58b1-4386-83e8-3e6df5315f53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='clustersearch-district_id']</value>
+      <webElementGuid>3ca3061b-bc79-4dd2-9202-64dd03b603af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='w4-filters']/td[3]/select</value>
+      <webElementGuid>6bc9d8fa-d66d-4bae-afc6-992188e85bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::select[2]</value>
+      <webElementGuid>f16358f9-8455-4b48-a316-26126173913e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[2]/following::select[2]</value>
+      <webElementGuid>fed34086-9066-47a2-9da2-2e192180f8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar'])[2]/preceding::select[2]</value>
+      <webElementGuid>a31d40ff-ca50-4edb-ba20-baf91c9bf19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gopalganj'])[2]/preceding::select[2]</value>
+      <webElementGuid>52ad3062-669f-41de-8900-d1c47040a8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>65f40a6a-98aa-4060-a34a-551d53e5dff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'clustersearch-district_id' and @name = 'ClusterSearch[district_id]' and (text() = '
+Select
+Gopalganj
+' or . = '
+Select
+Gopalganj
+')]</value>
+      <webElementGuid>725dda46-98db-4a32-89cf-1b2cc75ee8a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

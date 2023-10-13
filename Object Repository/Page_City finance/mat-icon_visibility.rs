@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_visibility</name>
+   <tag></tag>
+   <elementGuidId>b9acfd9c-3be9-4b86-8986-e7078e47e1b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color.ng-tns-c54-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>db5797c1-0404-45f0-b63e-c46d34ec7694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ec4c9784-2f0f-4688-b5fa-f7af7d96b3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color ng-tns-c54-1</value>
+      <webElementGuid>5afa9747-14b1-4c39-996e-f9254004c09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>380d28e9-4e2c-4987-b72f-c61b6d63f01c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>fa7c03a4-fb01-4425-abaf-46856b38e98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>visibility </value>
+      <webElementGuid>2406ef37-39fb-4d63-831e-974c33afb213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-login[1]/div[@class=&quot;fc-grant&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;overall-container d-flex&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-6&quot;]/div[@class=&quot;bg-white card sign-in&quot;]/div[1]/div[@class=&quot;card-body ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;forget-password&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c54-1 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c54-1&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c54-1&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c54-1 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color ng-tns-c54-1&quot;]</value>
+      <webElementGuid>471e8eb9-ca2f-417d-877f-969788300cfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>829599ee-5c0f-4c51-a7dc-f0692110f511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Census Code/ULB Code'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>5c60379d-089f-48a7-8c09-177183e40030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>a8b6dbc4-5bed-4b77-ae0d-91ad064366e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/preceding::mat-icon[1]</value>
+      <webElementGuid>059f2d19-c9d8-435d-ba5b-18e05d3ce14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='visibility']/parent::*</value>
+      <webElementGuid>0836c160-6c44-4abf-8b74-cd4cbb340e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-icon</value>
+      <webElementGuid>f0a677dd-7e51-48d7-a478-be53c77f0b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'visibility ' or . = 'visibility ')]</value>
+      <webElementGuid>bb06545b-1326-45ea-a537-9ce72842d4ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectUnchkagaon</name>
+   <tag></tag>
+   <elementGuidId>9b42103d-3cff-4fa0-b634-6bd585153a20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clustersearch-block_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='clustersearch-block_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b387accc-27c9-4c2f-bd0b-f49a81169690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clustersearch-block_id</value>
+      <webElementGuid>774d96a9-7480-4f84-8e1a-87d83d3d9531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>08d95f15-c4ab-4752-93c4-e980084913d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClusterSearch[block_id]</value>
+      <webElementGuid>85bd5cc3-64d5-42ce-b5db-45c62a81b0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Select
+Unchkagaon
+</value>
+      <webElementGuid>40f8c327-b9ef-4752-a3d8-63e99b407f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clustersearch-block_id&quot;)</value>
+      <webElementGuid>1c5456e4-4445-4ee3-bf31-48a94ac98caa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='clustersearch-block_id']</value>
+      <webElementGuid>706771b4-0cc9-4f8e-a045-eab18ce1d1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='w4-filters']/td[4]/select</value>
+      <webElementGuid>1c272ea9-ef84-4d94-9999-c6dc636b287b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::select[3]</value>
+      <webElementGuid>2f6b4355-7da5-4552-ae2e-bb9f0564910f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[2]/following::select[3]</value>
+      <webElementGuid>8264f7e1-5030-4522-b336-262911cc5092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar'])[2]/preceding::select[1]</value>
+      <webElementGuid>abe05fc5-6cef-447a-9972-fa3f60671b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gopalganj'])[2]/preceding::select[1]</value>
+      <webElementGuid>a0297267-de8b-4d44-b2aa-16eb012015bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>1722afb4-7f9d-4182-8460-33ebe351047f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'clustersearch-block_id' and @name = 'ClusterSearch[block_id]' and (text() = '
+Select
+Unchkagaon
+' or . = '
+Select
+Unchkagaon
+')]</value>
+      <webElementGuid>c7aea876-ce8d-4e26-bc2d-c879585d0371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

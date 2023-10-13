@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_dis</name>
+   <tag></tag>
+   <elementGuidId>37611326-ed4f-429e-9f8f-f329e0fb2475</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clustersearch-district_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='clustersearch-district_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4513d504-a45a-4887-b2c0-cbd23ab129da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clustersearch-district_id</value>
+      <webElementGuid>e34d58c6-a4f6-4eca-a1ba-c75a4c57a75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4f6d00a3-d5ee-4491-b603-9da44671799f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClusterSearch[district_id]</value>
+      <webElementGuid>967e305a-820a-4000-9c5b-8053fc7cb6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Select
+Alirajpur
+AMROHA
+BAHRAICH
+Baksa
+Balaghat
+BANDA
+Barwani
+BASTI
+Bhopal
+Chhatarpur
+Chhindwara
+Chirang
+Dewas
+Dhar
+Dindori
+Gopalganj
+Gumla
+Hazaribagh
+Jhabua
+KHERI
+Khunti
+Kokrajhar
+Mandla
+Morena
+PALAMU
+Rajgarh
+RAJNANDAGON
+Ramgarh
+Ranchi
+S1D1
+Sagar
+Sehore
+Shahdol
+Sheopur
+Shivpuri
+Sidhi
+Simdega
+Singrauli
+Tamulpur
+Test - District
+Tikamgarh
+Udalguri
+</value>
+      <webElementGuid>15b7a1ab-5211-4d3c-bf54-be1a54d78b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clustersearch-district_id&quot;)</value>
+      <webElementGuid>dce026cd-99a6-4e93-9d59-86cdb1449577</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='clustersearch-district_id']</value>
+      <webElementGuid>b27a1754-351a-420f-9175-0caa405b5380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='w4-filters']/td[3]/select</value>
+      <webElementGuid>26dbfe5b-d185-4d67-afad-00d2b73099a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::select[2]</value>
+      <webElementGuid>b0ea0c7f-a009-40b4-97ec-98a757d1b239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[2]/following::select[2]</value>
+      <webElementGuid>26495923-7002-40a3-8e48-6520c3436a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar'])[2]/preceding::select[2]</value>
+      <webElementGuid>0a427953-ab97-4b95-8c45-52b5a694ef25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gopalganj'])[2]/preceding::select[2]</value>
+      <webElementGuid>8daec59a-886b-421c-913f-cca4952eb753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>e0318cf0-82dc-4c59-9b71-aadafa189d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'clustersearch-district_id' and @name = 'ClusterSearch[district_id]' and (text() = '
+Select
+Alirajpur
+AMROHA
+BAHRAICH
+Baksa
+Balaghat
+BANDA
+Barwani
+BASTI
+Bhopal
+Chhatarpur
+Chhindwara
+Chirang
+Dewas
+Dhar
+Dindori
+Gopalganj
+Gumla
+Hazaribagh
+Jhabua
+KHERI
+Khunti
+Kokrajhar
+Mandla
+Morena
+PALAMU
+Rajgarh
+RAJNANDAGON
+Ramgarh
+Ranchi
+S1D1
+Sagar
+Sehore
+Shahdol
+Sheopur
+Shivpuri
+Sidhi
+Simdega
+Singrauli
+Tamulpur
+Test - District
+Tikamgarh
+Udalguri
+' or . = '
+Select
+Alirajpur
+AMROHA
+BAHRAICH
+Baksa
+Balaghat
+BANDA
+Barwani
+BASTI
+Bhopal
+Chhatarpur
+Chhindwara
+Chirang
+Dewas
+Dhar
+Dindori
+Gopalganj
+Gumla
+Hazaribagh
+Jhabua
+KHERI
+Khunti
+Kokrajhar
+Mandla
+Morena
+PALAMU
+Rajgarh
+RAJNANDAGON
+Ramgarh
+Ranchi
+S1D1
+Sagar
+Sehore
+Shahdol
+Sheopur
+Shivpuri
+Sidhi
+Simdega
+Singrauli
+Tamulpur
+Test - District
+Tikamgarh
+Udalguri
+')]</value>
+      <webElementGuid>6da653a0-781b-45bc-8ad8-5de4d8c23c05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

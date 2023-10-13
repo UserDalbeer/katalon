@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jharkhand_1</name>
+   <tag></tag>
+   <elementGuidId>69d91c62-d0a8-434a-a544-af2eaeb7a460</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d28639f-fe35-4a35-b470-56d6bc193b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-btn</value>
+      <webElementGuid>76b96eb6-f5d3-4189-86b4-3cdd5d261216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e70de635-8b31-4420-8309-08437cf53084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jharkhand </value>
+      <webElementGuid>90bbe9bc-d76f-46e6-bb13-48a2efa53015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;wrapper app-wrapper&quot;]/app-state[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/app-front-panel[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row pad&quot;]/div[@class=&quot;col-md-5 ng-star-inserted&quot;]/app-map-with-filter[1]/div[@class=&quot;flex-column row&quot;]/div[@class=&quot;row smallScreen&quot;]/div[@class=&quot;col-sm-12 col-lg-6 col-md-6 pull-right&quot;]/angular2-multiselect[@class=&quot;stateDropdown ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;selected-list&quot;]/div[@class=&quot;c-btn&quot;]</value>
+      <webElementGuid>aff4eec2-7f1e-43a6-bde0-483dbe4e952a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[8]</value>
+      <webElementGuid>16b9bf52-e91d-4d34-8f32-1970f6903434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Town Panchayat'])[1]/following::div[8]</value>
+      <webElementGuid>8e7c01df-15d7-40cb-a7d6-ee3a7c883195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Andaman &amp; Nicobar Islands'])[1]/preceding::div[6]</value>
+      <webElementGuid>60fe2932-0cb8-4e9a-b6a2-9f3d53d3b8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//angular2-multiselect/div/div/div</value>
+      <webElementGuid>51317ed6-7cfe-45a3-8c4d-59fce1d50170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Jharkhand ' or . = ' Jharkhand ')]</value>
+      <webElementGuid>20385558-ab1d-414f-9020-ba4603f28b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
